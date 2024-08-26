@@ -3,7 +3,7 @@
 A multilingual legal question-answering chatbot, designed to assist users who don't have legal knowledge in obtaining answers to their legal queries using the Indian Penal Code (IPC) as a knowledge base. It is multilingual* so anyone from india can understand the answer. 
 
 We've tried out several LLM to do a performance analysis for this task and OpenAI GPT-3.5-turbo-instruct performs pretty well.
-![Image](https://github.com/faiz-mubeen/image_based_food_calorie_finder/blob/main/data/app%20ss.png)
+![Image](https://github.com/faiz-mubeen/Multi-Lingual-Legal-Question-Answering-System/blob/main/data/perf_comparison.png)
 ---
 
 
