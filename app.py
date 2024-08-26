@@ -1,6 +1,6 @@
 import os
 # Setting the OpenAI API key as an environment variable for authentication
-os.environ['OPENAI_API_KEY']='sk-proj-plBrqW3ezb9i0LXu535aT3BlbkFJMfcVABBZn9wgJzPh1TQo'
+os.environ['OPENAI_API_KEY']='your-openai-key'
 
 # Importing necessary libraries from LangChain and Streamlit
 from langchain_core.output_parsers import StrOutputParser
