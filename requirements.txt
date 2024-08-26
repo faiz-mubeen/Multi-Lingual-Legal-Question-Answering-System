@@ -1,0 +1,8 @@
+openai
+langchain-core
+langchain-vectorstores
+langchain-openai
+langchain-community
+streamlit
+chromadb
+deep-translator
