@@ -29,8 +29,7 @@ We've tried out several LLM to do a performance analysis for this task and OpenA
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/faiz-mubeen/Multi-Lingual-Legal-Question-Answering-System.git
    ```
 
 2. Create a virtual environment and activate it:
