@@ -1,4 +1,4 @@
-# Enhancing Legal Accessibility in India: A Multi-Lingual Legal Question Answering System
+# Enhancing Legal Accessibility in India with LegalEase: A Legal Question Answering System with Regional Language Support
 ![Image](https://github.com/faiz-mubeen/Multi-Lingual-Legal-Question-Answering-System/blob/main/data/legalQna.png)
 A multilingual legal question-answering chatbot, designed to assist users who don't have legal knowledge in obtaining answers to their legal queries using the Indian Penal Code (IPC) as a knowledge base. It is multilingual* so anyone from india can understand the answer. 
 
